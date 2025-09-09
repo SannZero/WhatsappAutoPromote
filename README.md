@@ -8,5 +8,7 @@ How To Use:
  2. Install dependency: 
 `npm install`
 
- 3. Running javascript code:
+ 3. Open file index.js to modify configuration message and delay
+    
+ 5. Running javascript code:
 `node index.js`
